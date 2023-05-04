@@ -1,0 +1,14 @@
+{
+    "database": {
+        "host": "",
+        "user": "",
+        "pass": "",
+        "database": ""
+    },
+    "important": {
+        "token": "",
+        "clientId": "",
+        "guildId": "",
+        "ownerId": ""
+    }
+}
