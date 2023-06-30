@@ -4,11 +4,11 @@
   "description": "Discord bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node ."
+    "start": "node bot.js"
   },
   "author": "name",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.9.0"
+    "discord.js": "^14.11.0"
   }
 }
